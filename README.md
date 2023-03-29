@@ -1,5 +1,5 @@
 ### What are Lagrange Points
-Consider the Sun-Earth system and a small asteroid orbiting with the system. Lagrange points points in the center of mass frame where the centrifugal force of the asteroid balances with the gravitational forces from the Sun and Earth. These five colored points are plotted below on an effective potential plot.
+Consider the Sun-Earth system and a small asteroid orbiting with the system. Lagrange points points in the center of mass frame where the centrifugal force of the asteroid balances with the gravitational forces from the Sun and Earth. These five colored points are plotted below are our Lagrange points plotted on an effective potential plot.
 
 ![image](https://user-images.githubusercontent.com/59151395/228440467-eae91677-03a1-447a-b696-ab587a4d1c35.png)
 
