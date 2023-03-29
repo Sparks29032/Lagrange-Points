@@ -38,3 +38,4 @@ When the mass of the largest body is less than 24.96 larger than the second larg
 * Including the effective potentials on the orbit diagrams
 * Using more accurate simulation methods
 * Creating a toggle between the center of mass and coordinate systems
+* Treating the masses as non-point masses -- include collisions
